@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "id": "db3",
+      "name": "Test 3 server",
+      "email": "test3@gmail.com",
+      "mobile": "0954545455",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1KaxYNQsDT2doYrL3amyMwjDA6GZQJvK7A&usqp=CAU",
+      "groupId": "2"
+    },
+    {
+      "name": "hung Hung",
+      "email": "banggiahung131@gmail.com",
+      "mobile": "0976723536",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLJ0rygTw_DT-j_Edu53eB2rDpkBROln0YCDFngUS2yPD9KkMCLZ9pn7wQkp0snRDoalA&usqp=CAU",
+      "groupId": 1,
+      "id": "hwbW7Bi"
+    },
+    {
+      "name": "edit lan 3",
+      "email": "dhsahdash@gmail.com",
+      "mobile": "5444110",
+      "photo": "https://cdn-icons-png.flaticon.com/512/1946/1946429.png",
+      "groupId": 2,
+      "id": "1QBeaXu"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Group 1 Server"
+    },
+    {
+      "id": 2,
+      "name": "Group 2 Server"
+    },
+    {
+      "id": 3,
+      "name": "Group 3 Server"
+    }
+  ]
+}
